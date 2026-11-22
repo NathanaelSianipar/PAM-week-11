@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738507249752",
+    "project_id": "pam-notes-42325036",
+    "storage_bucket": "pam-notes-42325036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738507249752:android:3b1a0c225128623560122d",
+        "android_client_info": {
+          "package_name": "del.ac.id.pam_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJkoXmVzncy4X4w7Qmc3UyrElwaRzJBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
